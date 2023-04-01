@@ -1,15 +1,8 @@
-- 👋 Hi, I’m @Ali Ibrahim Mohammed
-- 👀 I’m interested in The field of blockchain, decentralized finance,
--  development in the Ethereum network, digital currencies,
--   smart contracts and its creation, as well as the field of artificial intelligence,
--    especially the field of machine learning, as well as famous programming languages
-- 🌱 I’m currently learning I learned Python and Solidity in Ethereum network programming, 
-- as well as some ethical hacking methods and penetration testing,
--  and an introduction to data science and analysis using Python.
- I obtained certificates in this field from the Coursera platform, 
- and I also study at the university in the field of agricultural engineering
- I am Ali Ibrahim Mohamed, a Blockchain developer and smart contract developer using the Ethereum network and Solidity language. I have been working in the Blockchain field since 2019, and I am currently working as a freelancer. In addition to my professional experience, I am also a student at a university studying agricultural engineering. I have a certificate in Blockchain from the University of California, and I am constantly working to improve my skills and knowledge in this field. As a result, I have all of the tools necessary to become a top-notch Blockchain and smart contract developer. Thank you for considering my profile.
+Hello and welcome! My name is Ali Ibrahim Muhammad and I am a Blockchain Developer. I am experienced in handling decentralized applications and have all the necessary tools and knowledge to develop, test, and publish Blockchain networks. I am proficient in using popular tools such as Truffle, Hardhat, Mocha, Morales Solidity, Open Zeppelin, NFT, ERC20, ERC721, and other smart contracts. I am also knowledgeable in working with DIFA, DAPPS, and DAIO, and can handle all Ethereum Blockchain networks with ease.
 
+As a developer, I understand the importance of version control and collaboration in software development. That is why I am proficient in using GitHub, a web-based platform for version control and collaboration. I can create repositories, manage branches, commit changes, and merge requests, among other things.
+
+If you need any help with Blockchain development or collaboration on GitHub, feel free to reach out to me.
 my linkedin account :https://www.linkedin.com/in/ali-ibrahim-mohammed-a18389239/
 my github account : https://github.com/AliIbrahimMohammed
 Certificates obtained :
